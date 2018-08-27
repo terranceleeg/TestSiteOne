@@ -8,24 +8,26 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Terrance Gallaher
-bio: Physics, Teaching, Engineering.
-description: A blog about Physics and teaching science
+name: Terrance Gallaher Jr
+bio: UX Designer, Web Designer, I Mostly roam around the PNW looking for good food  and
+  people.
+description: A portfolio website and a place to follow my super cool blog!
 external-image: false
 picture: assets/images/profile.jpg
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
 twitter: NivedithaRam
-github: NivedithaRam
-email: niveditha.ramasubramanian@stonybrook.edu
+github: https://github.com/terranceleeg
+email: terranceleeg@gmail.com
 authors:
-  NivedithaRam:
-    name: Niveditha Ram
-    bio: Physics, Reading, Teaching.
+  terranceleeg:
+    name: Terrance Gallaher Jr
+    bio: UX Designer, Web Designer, I Mostly roam around the PNW looking for good
+      food  and people.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: NivedithaRam
+    github: https://github.com/terranceleeg
 width: large
 research: true
 teaching: true

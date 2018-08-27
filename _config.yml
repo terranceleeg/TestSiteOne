@@ -17,7 +17,7 @@ picture: assets/images/profile.jpg
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
-github: https://github.com/terranceleeg
+github: github.com/terranceleeg
 email: terranceleeg@gmail.com
 authors:
   terranceleeg:
@@ -26,7 +26,7 @@ authors:
       food  and people.
     external-image: false
     picture: assets/images/profile.jpg
-    github: https://github.com/terranceleeg
+    github: github.com/terranceleeg
 width: large
 research: true
 teaching: true

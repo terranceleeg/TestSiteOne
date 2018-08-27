@@ -1,14 +1,13 @@
 ---
-title: "India-based Neutrino Observatory"
+title: India-based Neutrino Observatory
+date: 2017-07-19 18:23:00 Z
+tags:
+- India
 layout: post
-date: 2017-07-19 18:23
-tag: Neutrino Physics
-tag: India
 teaching: true
-draft: false
 author: Niveditha Ram
-summary: "India Based Neutrino Observatory - Physics questions and what the observatory is trying to achieve"
- 
+summary: India Based Neutrino Observatory - Physics questions and what the observatory
+  is trying to achieve
 ---
 
 Check tags

@@ -13,7 +13,7 @@ bio: UX Designer, Web Designer, I Mostly roam around the PNW looking for good fo
   people.
 description: A portfolio website and a place to follow my super cool blog!
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/me.jpg
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
@@ -25,7 +25,7 @@ authors:
     bio: UX Designer, Web Designer, I Mostly roam around the PNW looking for good
       food  and people.
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/me.jpg
     github: github.com/terranceleeg
 width: large
 research: true

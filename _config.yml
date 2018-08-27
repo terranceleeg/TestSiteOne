@@ -17,7 +17,6 @@ picture: assets/images/profile.jpg
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
-twitter: NivedithaRam
 github: https://github.com/terranceleeg
 email: terranceleeg@gmail.com
 authors:
